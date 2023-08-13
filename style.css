@@ -8,8 +8,10 @@
      display: flex;
      flex-direction: row;
      align-items: center;
+      width:100dvh;
      justify-content: space-evenly;
      padding: 10px 0 10px 0;
+     margin-right:0;
      margin-bottom: 10px;
      font-family: 'Arial Narrow', Arial;
      list-style: none;
