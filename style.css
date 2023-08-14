@@ -207,6 +207,8 @@
          flex-direction: column;
          scroll-behavior: smooth;
          width: min-content;
+          align-items:center;
+          justify-content:center;
      }
 
      .bg_img {
@@ -215,6 +217,9 @@
          align-items: center;
          justify-content: center;
      }
+      #navbar{
+           width:99dvh;
+      }
 
      #circle1,
      #circle2,
