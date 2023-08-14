@@ -44,8 +44,9 @@
  main {
      display: flex;
      align-items: center;
+      justify-content:center;
      margin: auto;
-     width: 100dvh;
+     width: 99.5vh;
      flex-wrap: wrap;
 
  }
